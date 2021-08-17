@@ -1,0 +1,28 @@
+@font-face {
+    font-family:"G1";
+    src: url("font/Style_Script/StyleScript-Regular.ttf");
+    font-weight: 500;
+    
+    
+}
+
+h1 {
+    color:rgb(99, 42, 165);
+    font-family: "G1";
+    text-align: center;
+    
+}
+p {
+    color:rgb(238, 18, 18);
+    font-family: "G1";
+    text-align: center;
+    
+}
+img {
+    width: 100px;
+}
+.img-div {
+    position: relative;
+    left: 400px;
+    top: 5px;
+}

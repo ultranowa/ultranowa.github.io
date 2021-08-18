@@ -2,12 +2,10 @@
     font-family:"G1";
     src: url("font/Style_Script/StyleScript-Regular.ttf");
     font-weight: 500;
-    
-    
 }
 
 h1 {
-    color:rgb(99, 42, 165);
+    color:rgb(9, 20, 116);
     font-family: "G1";
     text-align: center;
     
@@ -23,6 +21,5 @@ img {
 }
 .img-div {
     position: relative;
-    left: 400px;
-    top: 5px;
+    left:400px;
 }
